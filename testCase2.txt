@@ -2,4 +2,4 @@
 
 Hello!
 
-This is sample markdown for the [company](https://www.company.com) homework assignment.
+This is sample markdown for the [Mailchimp](https://www.mailchimp.com) homework assignment.
