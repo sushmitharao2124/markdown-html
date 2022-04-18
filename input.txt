@@ -1,0 +1,12 @@
+####### Case with seven hashes
+# Heading1 Check
+## Heading2 Check
+[Paragraph starting with link](http://google.com)
+Just a random paragraph
+# Heading with hashes ##Second hash
+This is a paragraph with #hash
+# heading [ with link](http://google.com) yep! it works
+[ no I am not ending it
+[ I am ending it but no link :(]
+[ link text ]( just opened the link parenthesis
+# heading with [multiple links](http://google.com) and [second link](http://yahoo.com)

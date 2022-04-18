@@ -1,0 +1,12 @@
+<h6># Case with seven hashes</h6>
+<h1> Heading1 Check</h1>
+<h2> Heading2 Check</h2>
+<p><a href="http://google.com">Paragraph starting with link</a></p>
+<p>Just a random paragraph</p>
+<h1> Heading with hashes ##Second hash</h1>
+<p>This is a paragraph with #hash</p>
+<h1> heading <a href="http://google.com"> with link</a> yep! it works</h1>
+<p>[ no I am not ending it</p>
+<p>[ I am ending it but no link :(]</p>
+<p>[ link text ]( just opened the link parenthesis</p>
+<h1> heading with <a href="http://google.com">multiple links</a> and [second link](http://yahoo.com</h1>
